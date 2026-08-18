@@ -1,0 +1,81 @@
+observation_id,participant_id,meal_type,meal_description,glucose_2h_mg_dL,synthetic_outlier_flag,data_status
+OBS001,P001,Oatmeal breakfast,rolled oats with berries,112,false,synthetic_demo_data
+OBS002,P002,Oatmeal breakfast,rolled oats with berries,118,false,synthetic_demo_data
+OBS003,P003,Oatmeal breakfast,rolled oats with berries,121,false,synthetic_demo_data
+OBS004,P004,Oatmeal breakfast,rolled oats with berries,115,false,synthetic_demo_data
+OBS005,P005,Oatmeal breakfast,rolled oats with berries,127,false,synthetic_demo_data
+OBS006,P006,Oatmeal breakfast,rolled oats with berries,109,false,synthetic_demo_data
+OBS007,P007,Oatmeal breakfast,rolled oats with berries,123,false,synthetic_demo_data
+OBS008,P008,Oatmeal breakfast,rolled oats with berries,116,false,synthetic_demo_data
+OBS009,P009,Oatmeal breakfast,rolled oats with berries,120,false,synthetic_demo_data
+OBS010,P010,Oatmeal breakfast,rolled oats with berries,114,false,synthetic_demo_data
+OBS011,P011,Oatmeal breakfast,rolled oats with berries,132,false,synthetic_demo_data
+OBS012,P012,Oatmeal breakfast,rolled oats with berries,108,false,synthetic_demo_data
+OBS013,P013,Oatmeal breakfast,rolled oats with berries,119,false,synthetic_demo_data
+OBS014,P014,Oatmeal breakfast,rolled oats with berries,125,false,synthetic_demo_data
+OBS015,P015,Oatmeal breakfast,rolled oats with berries,117,false,synthetic_demo_data
+OBS016,P016,Oatmeal breakfast,rolled oats with berries,113,false,synthetic_demo_data
+OBS017,P017,Oatmeal breakfast,rolled oats with berries,129,false,synthetic_demo_data
+OBS018,P018,Oatmeal breakfast,rolled oats with berries,111,false,synthetic_demo_data
+OBS019,P019,Oatmeal breakfast,rolled oats with berries,162,true,synthetic_demo_data
+OBS020,P020,Oatmeal breakfast,rolled oats with berries,122,false,synthetic_demo_data
+OBS021,P001,White-bread breakfast,white bread with jam,138,false,synthetic_demo_data
+OBS022,P002,White-bread breakfast,white bread with jam,149,false,synthetic_demo_data
+OBS023,P003,White-bread breakfast,white bread with jam,156,false,synthetic_demo_data
+OBS024,P004,White-bread breakfast,white bread with jam,145,false,synthetic_demo_data
+OBS025,P005,White-bread breakfast,white bread with jam,163,false,synthetic_demo_data
+OBS026,P006,White-bread breakfast,white bread with jam,151,false,synthetic_demo_data
+OBS027,P007,White-bread breakfast,white bread with jam,158,false,synthetic_demo_data
+OBS028,P008,White-bread breakfast,white bread with jam,142,false,synthetic_demo_data
+OBS029,P009,White-bread breakfast,white bread with jam,167,false,synthetic_demo_data
+OBS030,P010,White-bread breakfast,white bread with jam,154,false,synthetic_demo_data
+OBS031,P011,White-bread breakfast,white bread with jam,148,false,synthetic_demo_data
+OBS032,P012,White-bread breakfast,white bread with jam,160,false,synthetic_demo_data
+OBS033,P013,White-bread breakfast,white bread with jam,135,false,synthetic_demo_data
+OBS034,P014,White-bread breakfast,white bread with jam,171,false,synthetic_demo_data
+OBS035,P015,White-bread breakfast,white bread with jam,152,false,synthetic_demo_data
+OBS036,P016,White-bread breakfast,white bread with jam,146,false,synthetic_demo_data
+OBS037,P017,White-bread breakfast,white bread with jam,159,false,synthetic_demo_data
+OBS038,P018,White-bread breakfast,white bread with jam,139,false,synthetic_demo_data
+OBS039,P019,White-bread breakfast,white bread with jam,221,true,synthetic_demo_data
+OBS040,P020,White-bread breakfast,white bread with jam,155,false,synthetic_demo_data
+OBS041,P001,Rice-bowl lunch,chicken rice bowl,129,false,synthetic_demo_data
+OBS042,P002,Rice-bowl lunch,chicken rice bowl,142,false,synthetic_demo_data
+OBS043,P003,Rice-bowl lunch,chicken rice bowl,151,false,synthetic_demo_data
+OBS044,P004,Rice-bowl lunch,chicken rice bowl,137,false,synthetic_demo_data
+OBS045,P005,Rice-bowl lunch,chicken rice bowl,160,false,synthetic_demo_data
+OBS046,P006,Rice-bowl lunch,chicken rice bowl,145,false,synthetic_demo_data
+OBS047,P007,Rice-bowl lunch,chicken rice bowl,148,false,synthetic_demo_data
+OBS048,P008,Rice-bowl lunch,chicken rice bowl,134,false,synthetic_demo_data
+OBS049,P009,Rice-bowl lunch,chicken rice bowl,157,false,synthetic_demo_data
+OBS050,P010,Rice-bowl lunch,chicken rice bowl,141,false,synthetic_demo_data
+OBS051,P011,Rice-bowl lunch,chicken rice bowl,153,false,synthetic_demo_data
+OBS052,P012,Rice-bowl lunch,chicken rice bowl,130,false,synthetic_demo_data
+OBS053,P013,Rice-bowl lunch,chicken rice bowl,165,false,synthetic_demo_data
+OBS054,P014,Rice-bowl lunch,chicken rice bowl,146,false,synthetic_demo_data
+OBS055,P015,Rice-bowl lunch,chicken rice bowl,139,false,synthetic_demo_data
+OBS056,P016,Rice-bowl lunch,chicken rice bowl,155,false,synthetic_demo_data
+OBS057,P017,Rice-bowl lunch,chicken rice bowl,143,false,synthetic_demo_data
+OBS058,P018,Rice-bowl lunch,chicken rice bowl,132,false,synthetic_demo_data
+OBS059,P019,Rice-bowl lunch,chicken rice bowl,198,true,synthetic_demo_data
+OBS060,P020,Rice-bowl lunch,chicken rice bowl,149,false,synthetic_demo_data
+OBS061,P001,Salad-with-chicken lunch,salad with grilled chicken,96,false,synthetic_demo_data
+OBS062,P002,Salad-with-chicken lunch,salad with grilled chicken,104,false,synthetic_demo_data
+OBS063,P003,Salad-with-chicken lunch,salad with grilled chicken,111,false,synthetic_demo_data
+OBS064,P004,Salad-with-chicken lunch,salad with grilled chicken,102,false,synthetic_demo_data
+OBS065,P005,Salad-with-chicken lunch,salad with grilled chicken,118,false,synthetic_demo_data
+OBS066,P006,Salad-with-chicken lunch,salad with grilled chicken,107,false,synthetic_demo_data
+OBS067,P007,Salad-with-chicken lunch,salad with grilled chicken,99,false,synthetic_demo_data
+OBS068,P008,Salad-with-chicken lunch,salad with grilled chicken,114,false,synthetic_demo_data
+OBS069,P009,Salad-with-chicken lunch,salad with grilled chicken,105,false,synthetic_demo_data
+OBS070,P010,Salad-with-chicken lunch,salad with grilled chicken,101,false,synthetic_demo_data
+OBS071,P011,Salad-with-chicken lunch,salad with grilled chicken,121,false,synthetic_demo_data
+OBS072,P012,Salad-with-chicken lunch,salad with grilled chicken,94,false,synthetic_demo_data
+OBS073,P013,Salad-with-chicken lunch,salad with grilled chicken,109,false,synthetic_demo_data
+OBS074,P014,Salad-with-chicken lunch,salad with grilled chicken,116,false,synthetic_demo_data
+OBS075,P015,Salad-with-chicken lunch,salad with grilled chicken,103,false,synthetic_demo_data
+OBS076,P016,Salad-with-chicken lunch,salad with grilled chicken,98,false,synthetic_demo_data
+OBS077,P017,Salad-with-chicken lunch,salad with grilled chicken,112,false,synthetic_demo_data
+OBS078,P018,Salad-with-chicken lunch,salad with grilled chicken,106,false,synthetic_demo_data
+OBS079,P019,Salad-with-chicken lunch,salad with grilled chicken,145,true,synthetic_demo_data
+OBS080,P020,Salad-with-chicken lunch,salad with grilled chicken,108,false,synthetic_demo_data
