@@ -1,7 +1,7 @@
 # BSEN10040 Reusable Plotting Template
 
 <p align="center">
-  <strong>A classroom-ready collection of reusable plots for food, health, science and engineering data</strong><br>
+  <strong>A classroom-ready collection of reusable plots for food and health data</strong><br>
   <sub>Python scripts · Jupyter Notebooks · sample data · publication-style figure outputs</sub>
 </p>
 
